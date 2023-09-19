@@ -29,14 +29,38 @@
 
 }
 
-@media screen and (max-width: 450px) {
+#id {
+    width: 18rem;
+}
+
+@media screen and (max-width: 370px) {
     .icon {
         margin: .5rem 0 1.3rem 0;
-        width: 42%;
+        width: 65%;
+    }
+
+    .info p {
+        font-size: .6rem;
+    }
+
+
+    #id {
+        width: 14rem;
+    }
+
+}
+
+@media only screen and (min-width:370px) and (max-width:500px) {
+    .icon {
+        margin: .5rem 0 1.3rem 0;
+        width: 43%;
     }
 
     .info p {
         font-size: 1rem;
+    }
+    #id {
+        width: 16rem;
     }
 
 }
