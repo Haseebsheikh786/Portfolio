@@ -1,0 +1,42 @@
+.icon {
+    margin: .5rem 0;
+    display: flex;
+    justify-content: space-between;
+    width: 20%;
+}
+
+.github {
+    font-size: 1.6rem;
+    color: black;
+}
+
+.insta {
+    font-size: 1.6rem;
+    color: black;
+}
+
+.linkdin {
+    font-size: 1.6rem;
+    color: black;
+}
+
+.info {
+    margin: .5rem 0;
+}
+
+.info p {
+    font-size: 1.4rem;
+
+}
+
+@media screen and (max-width: 450px) {
+    .icon {
+        margin: .5rem 0 1.3rem 0;
+        width: 42%;
+    }
+
+    .info p {
+        font-size: 1rem;
+    }
+
+}
