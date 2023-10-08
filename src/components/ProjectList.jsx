@@ -6,25 +6,31 @@ const ProjectList = () => {
     {
       title: "Restaurant APP",
       description:
-        "it has include a feature of order food, table booking and also include admin pannel",
+        "Developed a fully functional restaurant site, including  order food,  reserve table and admin  functionality.",
       link: "https://restaurant-app-pi-peach.vercel.app/",
     },
     {
       title: "Ecommerce APP",
       description:
-        "it has include all the features that are mostly available in ecommerce app",
+        "Developed a fully functional e-commerce site, including user authentication, product catalog,  cart and order product functionality.",
       link: "https://ecommerce-project-app.vercel.app/",
+    },
+    {
+      title: " Real-time Chat APP",
+      description:
+        "Developed a fully functional and responsive  site, including user authentication  and real time chat functionality.",
+      link: "https://chat-app-hn41.vercel.app/",
     },
     {
       title: "Crud APP",
       description:
-        "this is a crud app. it has include add, delete, update and read feature",
+        "Developed a fully functional and responsive  site, including all the crud functionality.",
       link: "https://contacts-manager-app-topaz.vercel.app",
     },
     {
       title: "Blog APP",
       description:
-        "this is also a crud app. You can read blogs and comments but only login user will be able to add, delete and update blog and comment.",
+        "Developed a  blog site, including  add , delete and update blog or comments functionality.",
       link: "https://blog-project-phi-dun.vercel.app/",
     },
   ];
@@ -43,3 +49,35 @@ const ProjectList = () => {
 };
 
 export default ProjectList;
+
+// Projects:
+// 1. E-commerce Website (React, Node.js, Express.js, MongoDB)
+//    - Developed a fully functional e-commerce site, including user authentication, product catalog, and cart functionality.
+//    - Implemented responsive design for a seamless user experience across devices.
+
+// 2. Portfolio Website (HTML, CSS, JavaScript)
+//    - Created a personal portfolio website showcasing my skills and projects.
+//    - Designed the website for a clean and user-friendly interface.
+
+// 3. Task Management App (React)
+//    - Built a task management application to organize daily activities.
+//    - Utilized React components and state management for efficient task tracking.
+
+// Internships:
+// [Company Name]
+// [City, State]
+// Intern - Web Developer
+// [Month Year - Month Year]
+
+// - Collaborated with the development team to create and maintain web applications.
+// - Assisted in troubleshooting and debugging issues in existing code.
+// - Gained experience in agile development methodologies.
+
+// Certifications:
+// - [Certification Name], [Certifying Body], [Year]
+
+// Awards and Achievements (Optional):
+// - [Any relevant awards or honors you have received]
+
+// References:
+// Available upon request.

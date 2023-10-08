@@ -19,7 +19,6 @@ const About = () => {
             <li class="list-group-item">Reactjs , Redux</li>
             <li class="list-group-item">Node.js , Express.js , MongoDB</li>
             <li class="list-group-item">Git & GitHub</li>
-            <li class="list-group-item">Photography & Video Editing</li>
           </ul>
         </div>
       </section>
