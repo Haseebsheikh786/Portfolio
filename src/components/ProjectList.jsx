@@ -33,6 +33,12 @@ const ProjectList = () => {
         "Developed a  blog site, including  add , delete and update blog or comments functionality.",
       link: "https://blog-project-phi-dun.vercel.app/",
     },
+    {
+      title: "Social Media APP",
+      description:
+        "Developed a  Social Media site, including  Like , Comment , Post, add friend and chat with friends  functionality.",
+      link: "https://github.com/Haseebsheikh786/Social-Media-APP",
+    },
   ];
   return (
     <>
